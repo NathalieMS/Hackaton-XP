@@ -19,7 +19,6 @@ module.exports = {
             request(options, function (error, response) {
                 if (error) reject(error);
                     const resultJson = JSON.parse(response.body)
-                    console.log('OLHA O TOKEN', resultJson.access_token);
                     resolve(resultJson.access_token);
               });
         })
