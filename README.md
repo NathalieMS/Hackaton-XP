@@ -17,6 +17,8 @@
 | ------ | ----- | ----------- |
 | **GET** | `/checking-account` | Gets para soma de todos os valores de conta em um determinado banco|
 
+localhost:3000 para as solicitações e envio de 'user' e 'bank' no Postman
+
 ## Dependências Gerais:
 ```js
  "dependencies": {
