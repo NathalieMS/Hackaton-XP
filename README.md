@@ -1,5 +1,4 @@
 # Hackaton-XP
-# API ACADEMIA
 
 ## Desenvolvimento de consumo de API em Node.JS com express. 
 
